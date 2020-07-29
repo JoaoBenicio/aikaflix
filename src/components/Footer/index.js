@@ -5,8 +5,8 @@ function Footer() {
   return (
     <FooterBase>
       <p>
-        <a href="https://www.alura.com.br/">
-          Ongame
+        <a href="https://aika.ongame.net/">
+          AIKA BR
         </a>
       </p>
     </FooterBase>
